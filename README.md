@@ -37,10 +37,10 @@
 - [x] Deploy app to Heroku
 
 ## Domain model
-! [] (https://i.imgur.com/jqJ8z0f.png)
+![](https://i.imgur.com/jqJ8z0f.png)
 
 ## domain instance
-! [] (https://i.imgur.com/ReeHTr0.png)
+![](https://i.imgur.com/ReeHTr0.png)
 
 ## Logical Layers
-! [] (https://i.imgur.com/IOgpxCm.png)
+![](https://i.imgur.com/IOgpxCm.png)
