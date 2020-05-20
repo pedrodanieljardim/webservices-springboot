@@ -1,4 +1,3 @@
-# Web services project with Spring Boot and JPA / Hibernate
 
 ## Objetives
 
@@ -49,12 +48,4 @@
 - [x] Run SQL Script
 - [x] Deploy app to Heroku
 
-## Domain model
-![](https://i.imgur.com/jqJ8z0f.png)
-
-## Domain instance
-![](https://i.imgur.com/ReeHTr0.png)
-
-## Logical Layers
-![](https://i.imgur.com/IOgpxCm.png)
 
