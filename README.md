@@ -4,14 +4,12 @@
 
 <p>
   <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/webservices-springboot">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
-  
-  <a href="https://github.com/pedrodanieljardim/AirCnC">
+    
+  <a href="https://github.com/pedrodanieljardim/webservices-springboot">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/AirCnC">
   </a>
 
-  <a href="https://github.com/pedrodanieljardim/AirCnC">
+  <a href="https://github.com/pedrodanieljardim/webservices-springboot">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrodanieljardim/AirCnC">
   </a>
 
