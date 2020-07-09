@@ -1,8 +1,22 @@
-<h1 align="center">
+<h1>
     Webservices com springboot
 </h1>
 
-![](https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000) ![](https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000)
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/webservices-springboot">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
+  
+  <a href="https://github.com/pedrodanieljardim/AirCnC">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/AirCnC">
+  </a>
+
+  <a href="https://github.com/pedrodanieljardim/AirCnC">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrodanieljardim/AirCnC">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
 
 ## Principais Objetivos ao desenvolver esse projeto
