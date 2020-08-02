@@ -1,8 +1,8 @@
 <h1>
-    Webservices com springboot
+    Webservices with springboot
 </h1>
 
-<p>
+<p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/webservices-springboot">
     
   <a href="https://github.com/pedrodanieljardim/webservices-springboot">
@@ -17,29 +17,21 @@
 </p>
 
 
-## Principais Objetivos ao desenvolver esse projeto
+## Main Objectives when developing this project
 
-- Criar um projeto Spring Boot com a linguagem Java.
-- Implementar modelo de domínio.
-- Estruturar camadas lógicas: recurso, serviço, repositório.
-- Configurar banco de dados de teste (H2).
-- Preencher o banco de dados.
-- Implementar modelo de domínio
-- CRUD - Criar, recuperar, atualizar, excluir.
-- Manipulação de exceção.
+- Create a Spring Boot project with the Java language.
+- Implement domain model.
+- Structure logical layers: resource, service, repository.
+- Configure test database (H2).
+- Fill the database.
+- Implement domain model
+- CRUD - Create, retrieve, update, delete.
+- Exception handling.
 
-## Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 
 
