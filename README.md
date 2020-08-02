@@ -1,6 +1,3 @@
-<h1>
-    Webservices with springboot
-</h1>
 
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/pedrodanieljardim/webservices-springboot">
