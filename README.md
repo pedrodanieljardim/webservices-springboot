@@ -28,9 +28,9 @@
 - Exception handling.
 
 
-## Licença
+## Licence
+This project is under the MIT license. Refer to the [LICENSE](LICENSE) file for more details.
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 
 
